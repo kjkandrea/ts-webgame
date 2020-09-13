@@ -1,3 +1,5 @@
+export {}
+
 let numberOne, numberTwo, answer
 
 const question = document.createElement('div')
